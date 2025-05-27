@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kkevinb
 - 👀 I’m interested in getting rich
-- 🌱 I’m currently learning c#,js,html,css,ts
+- 🌱 I’m currently learning c#, js , html , css , ts
 - 💞️ I’m looking to collaborate on everything
